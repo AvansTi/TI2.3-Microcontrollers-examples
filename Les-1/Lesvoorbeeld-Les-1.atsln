@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Knipper", "Knipper\Knipper.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lookup", "lookup\lookup.cproj", "{80463356-4F72-45B1-9F13-1A2C335B17E0}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "statemachine", "statemachine\statemachine.cproj", "{C5947249-63AD-42DA-8E16-CF98831C2DD0}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "switch", "switch\switch.cproj", "{44C54910-9DC0-4065-B20E-0A272250ADBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{80463356-4F72-45B1-9F13-1A2C335B17E0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{80463356-4F72-45B1-9F13-1A2C335B17E0}.Debug|AVR.Build.0 = Debug|AVR
+		{80463356-4F72-45B1-9F13-1A2C335B17E0}.Release|AVR.ActiveCfg = Release|AVR
+		{80463356-4F72-45B1-9F13-1A2C335B17E0}.Release|AVR.Build.0 = Release|AVR
+		{C5947249-63AD-42DA-8E16-CF98831C2DD0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C5947249-63AD-42DA-8E16-CF98831C2DD0}.Debug|AVR.Build.0 = Debug|AVR
+		{C5947249-63AD-42DA-8E16-CF98831C2DD0}.Release|AVR.ActiveCfg = Release|AVR
+		{C5947249-63AD-42DA-8E16-CF98831C2DD0}.Release|AVR.Build.0 = Release|AVR
+		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Debug|AVR.Build.0 = Debug|AVR
+		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Release|AVR.ActiveCfg = Release|AVR
+		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
