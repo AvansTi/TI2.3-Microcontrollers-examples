@@ -42,7 +42,7 @@ notes:			Looping forever, flipping bits on PORTD
 	DDRD = 0b11111111;			// All pins PORTD are set to output 
 	
 	while (1) {
-		PORTD = 0xAA;			// Write 10101010b PORTD
+		PORTD = 0x00;			// Write 10101010b PORTD
 		wait( 250 );				
 		PORTD = 0x55;			// Write 01010101b PORTD
 		wait( 250 );				

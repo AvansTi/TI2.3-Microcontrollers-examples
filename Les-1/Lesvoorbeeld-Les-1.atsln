@@ -11,6 +11,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "statemachine", "statemachin
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "switch", "switch\switch.cproj", "{44C54910-9DC0-4065-B20E-0A272250ADBE}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Lesvoorbeeld", "Lesvoorbeeld\Lesvoorbeeld.cproj", "{58F489BD-BF92-45AF-9DF2-6D66D2024B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -33,6 +35,10 @@ Global
 		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Debug|AVR.Build.0 = Debug|AVR
 		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Release|AVR.ActiveCfg = Release|AVR
 		{44C54910-9DC0-4065-B20E-0A272250ADBE}.Release|AVR.Build.0 = Release|AVR
+		{58F489BD-BF92-45AF-9DF2-6D66D2024B36}.Debug|AVR.ActiveCfg = Debug|AVR
+		{58F489BD-BF92-45AF-9DF2-6D66D2024B36}.Debug|AVR.Build.0 = Debug|AVR
+		{58F489BD-BF92-45AF-9DF2-6D66D2024B36}.Release|AVR.ActiveCfg = Release|AVR
+		{58F489BD-BF92-45AF-9DF2-6D66D2024B36}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
