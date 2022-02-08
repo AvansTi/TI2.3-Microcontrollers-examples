@@ -11,6 +11,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lcd_bigavr6", "lcd_bigavr6\
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lcd_unids6", "lcd_unids6\lcd_unids6.cproj", "{ABE3C82A-89D0-414A-B551-A45D727B92DA}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "lcd_switchable", "lcd_switchable\lcd_switchable.cproj", "{7CB729B3-7D35-47B2-A28A-1B5264326547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -33,6 +35,10 @@ Global
 		{ABE3C82A-89D0-414A-B551-A45D727B92DA}.Debug|AVR.Build.0 = Debug|AVR
 		{ABE3C82A-89D0-414A-B551-A45D727B92DA}.Release|AVR.ActiveCfg = Release|AVR
 		{ABE3C82A-89D0-414A-B551-A45D727B92DA}.Release|AVR.Build.0 = Release|AVR
+		{7CB729B3-7D35-47B2-A28A-1B5264326547}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7CB729B3-7D35-47B2-A28A-1B5264326547}.Debug|AVR.Build.0 = Debug|AVR
+		{7CB729B3-7D35-47B2-A28A-1B5264326547}.Release|AVR.ActiveCfg = Release|AVR
+		{7CB729B3-7D35-47B2-A28A-1B5264326547}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

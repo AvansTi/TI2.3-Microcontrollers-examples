@@ -21,7 +21,6 @@
 
 
 /******************************************************************
-/* 
 short:			Busy wait number of millisecs
 inputs:			int ms (Number of millisecs to busy wait)
 outputs:	

@@ -56,7 +56,6 @@ void wait( int ms ) {
 
 
 /******************************************************************
-/*
 short:			main() loop, entry point of executable
 inputs:
 outputs:
